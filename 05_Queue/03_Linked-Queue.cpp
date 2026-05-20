@@ -80,6 +80,3 @@ int main() {
         cout<<que.front()<<" "<<que.back()<<endl;
         que.pop();
     }
-    return 0;
-}
-
