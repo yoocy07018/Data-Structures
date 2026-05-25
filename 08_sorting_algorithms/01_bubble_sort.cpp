@@ -1,3 +1,6 @@
+//冒泡排序
+//特点：相邻元素两两比较，把值大的元素往下交换
+//缺点：数据交换次数太多
 #include <iostream>
 #include <time.h>
 using namespace std;
